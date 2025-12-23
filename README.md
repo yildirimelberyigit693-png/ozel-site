@@ -1,2 +1,2 @@
-https://github.com/rexoz.exe/ozel-site/new/main
+https://github.com/rexoz.exe/ozel-site/new/main?filename=index.html
 
