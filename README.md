@@ -1,1 +1,2 @@
-https://github.com/kullaniciadi/ozel-site/new/main
+https://github.com/rexoz.exe/ozel-site/new/main
+
