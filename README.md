@@ -1,1 +1,1 @@
-# ozel-site/new/main
+https://github.com/kullaniciadi/ozel-site/new/main
